@@ -1,0 +1,30 @@
+{
+  "workbench.colorCustomizations": /*light*/ {
+    "titleBar.activeBackground": "#b1ffad",
+    "titleBar.inactiveBackground": "#b1ffad",
+    "tab.inactiveBackground": "#a4eba0",
+    "sideBar.background": "#F8F8F8",
+    "terminal.background": "#F8F8F8"
+  },
+  "workbench.colorCustomizations": /*dark*/ {
+    "titleBar.activeBackground": "#404050",
+    "titleBar.inactiveBackground": "#404050",
+    "tab.inactiveBackground": "#404050",
+    "tab.inactiveForeground": "#FFFFFFD0",
+    "tab.activeBackground": "#000",
+  },
+  "window.title": "${dirty}${rootName} • ${activeEditorShort}",
+  "terminal.integrated.cursorBlinking": true,
+  "vscode_custom_css.imports": [
+    "file:///C:/git/Cloud-Drive/vs-code-custom.css"
+  ],
+  "vscode_custom_css.policy": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "markdown.validate.enabled": true,
+  "files.exclude": {
+    "**/build": true,
+    "**/dist": true,
+    "**/node_modules": true
+  }
+}

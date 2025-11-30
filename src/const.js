@@ -1,0 +1,12 @@
+export const APP_KEY = 'CONTAGION V1';
+export const PROMPT_TRANSITION = 300;
+export const PROMPT_RESET_STATS = 'RESET STATS?';
+export const PI_OVER_180 = Math.PI / 180;
+export const TICK_MS = 20;
+export const DEAD_MS = 12000;
+export const ZET_RADIUS = 37.5;
+export const PET_RADIUS = 37.5;
+export const ZET_MAX_VELOCITY = 4;
+export const ZET_VELOCITY_DELTA = 0.5;
+export const PET_VELOCITY = 3.5;
+export const PET_COUNT = 9;
