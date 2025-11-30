@@ -14,7 +14,7 @@
 	const CONTENT = `
         <span style='font-style: italic;'>You are an ${green}evil alien</span>, carrying a dangerous ${orange}virus</span>. You drift through space, sending ${orange}waves of infection</span> through the world of innocent kittens.</span>
         ${ul}
-        ${li}${blue}Use ${lightblue}arrow keys</span> to adjust your ${lightblue}velocity</span>—horizontal and vertical.</span></li>
+        ${li}${blue}Use ${lightblue}arrow keys</span> to adjust your ${lightblue}velocity</span>.</span></li>
         ${li}${blue}Contact with a ${gold}cute kitten</span> turns it into a ${orange}zombie</span>.</span></li>
         ${li}${blue}After some time, zombie kittens ${gold}revive</span> and can be ${green}infected again</span>.</span></li>
         ${li}${blue}Zombie kittens ${green}spread</span> the plague.</span></li>
